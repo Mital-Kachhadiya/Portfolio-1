@@ -9912,3 +9912,8 @@ textarea.form-control {
 #scrollToTopBtn:hover {
   background-color: #72b626;
 }
+@media(max-width:992px){
+  .hero-subtext{
+    color: white !important;
+  }
+}
